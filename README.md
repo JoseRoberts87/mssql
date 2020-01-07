@@ -1,0 +1,1 @@
+a useful library to facilitate interfacing with MsSql databases and enabling or simplifying functionality that otherwise does not exist or is difficult to compose
